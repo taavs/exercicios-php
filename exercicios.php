@@ -34,3 +34,9 @@
 * - A função deve conter 1 argumento, sendo ele o nome do arquivo a ser "calculado".
 * - O retorno deve ser o número de linhas existentes no arquivo .txt
 */
+
+/*
+ * - Crie uma função que recebe um array multidimensional de números inteiros.
+ * - A função deve conter 1 argumento, sendo ele o array multidimensional
+ * - O retorno deve ser o array reordenado.
+ */
